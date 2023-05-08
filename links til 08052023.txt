@@ -1,0 +1,9 @@
+﻿Link til Voyant tools
+https://voyant-tools.org/?corpus=df7cdc5f09df2e5e02d633ba630335e4
+
+Netværk-visualisering
+https://dracor.org/
+https://ezlinavis.dracor.org/
+
+Link til Holbergs Skrifter
+http://holbergsskrifter.dk/holberg-public/view?docId=adm/main.xml
