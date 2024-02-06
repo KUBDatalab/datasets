@@ -127,6 +127,8 @@ giv
 give
 giver
 givet
+giør
+giøre
 gjordt
 gjort
 gode
@@ -177,6 +179,7 @@ imed
 imellem
 imod
 in
+ind
 indeholde
 indtil
 ingen
@@ -216,6 +219,7 @@ man
 mange
 me
 med
+meer
 meere
 meget
 men
@@ -317,4 +321,5 @@ von
 vor
 vore
 vores
+være
 zu
